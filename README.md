@@ -1,3 +1,5 @@
+![logo](https://github.com/ssuhanikanoje/Suhani-Kanoje/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
+
 <h1 align="center">Hi 👋, I'm Suhani Kanoje</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
